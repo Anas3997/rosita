@@ -1,6 +1,6 @@
 # 🛒 Rosita — Application de gestion de magasin
 
-**Rosita** est une application web développée en **PHP** avec **MySQL** pour la gestion complète d’un magasin : produits, utilisateurs, ventes et plus. Ce projet a été réalisé dans un cadre académique en collaboration avec [Nom de ton collègue].
+**Rosita** est une application web développée en **PHP** avec **MySQL** pour la gestion complète d’un magasin : produits, utilisateurs, ventes et plus. Ce projet a été réalisé dans un cadre académique en collaboration avec othman el ghidani.
 
 ---
 
