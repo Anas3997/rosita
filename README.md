@@ -6,7 +6,7 @@
 
 ## 📸 Aperçu du projet
 
-!)
+https://github.com/Anas3997/rosita/blob/main/catalogue.png
 
 ---
 
